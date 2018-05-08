@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+//them chu thich
 
 [System.Serializable]
 public class Question {
